@@ -1,0 +1,163 @@
+div {
+}
+
+#button-carousel * {
+  margin-right: 7.5px;
+  border-radius: 10px;
+  border-color: #00000000;
+  /*border-bottom-color: #6a0505;*/
+  background-color: #6a0505;
+  margin-left: 7.5px;
+  cursor: pointer;
+}
+
+#button-carousel {
+  padding-top: 0px;
+  margin-top: 10px;
+}
+
+.lin {
+  width: 0;
+  height: 4px;
+  background: rgb(141, 80, 80);
+  margin: 10px auto;
+  border-radius: 5px;
+  animation: expand 1.5s ease-in-out;
+}
+
+@keyframes expand {
+  0% {
+    width: 0;
+    margin-left: 75px;
+    margin-right: 75px;
+  }
+  100% {
+    width: 150px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+.lin {
+  width: 150px;
+  height: 4px;
+  background: rgb(141, 80, 80);
+  margin: 10px auto;
+  border-radius: 5px;
+  position: relative;
+  overflow: hidden;
+}
+
+.lin::before {
+  content: "";
+  display: block;
+  width: 0;
+  height: 100%;
+  background: rgb(141, 80, 80);
+  border-radius: 5px;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  animation: expand 1s ease-in-out;
+}
+
+@keyframes expand {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 150px;
+  }
+}
+
+small {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  color: white;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
+
+#sampleOfficer {
+  height: 325px;
+}
+
+#sampleChair {
+  height: 325px;
+}
+
+#sampleMember {
+  height: 300px;
+}
+
+.horizontal-scroll-gallery {
+  margin-top: 25px;
+  display: flex;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.horizontal-scroll-gallery .col {
+  flex: 0 0 auto;
+  margin-right: 10px;
+}
+
+.horizontal-scroll-gallery::-webkit-scrollbar {
+  /*display: none;*/
+}
+
+.horizontal-scroll-gallery::-webkit-scrollbar {
+  width: 6px;
+  /*border-radius: 100px;*/
+}
+
+.horizontal-scroll-gallery::-webkit-scrollbar-thumb {
+  background-color: #888;
+}
+
+.row * {
+  margin-right: 5px;
+}
+
+.home_img {
+  width: 100vw;
+}
+
+.home_div {
+  width: 100vw;
+  padding-top: 100px;
+}
+
+.about_us {
+  text-align: center;
+  width: 80vw;
+}
+
+.paragraph {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /*width: 80vw;*/
+}
+
+.horizontal-scroll-gallery {
+  display: flex;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.horizontal-scroll-gallery .col {
+  flex: 0 0 auto;
+  margin-right: 10px;
+}
+
+.horizontal-scroll-gallery::-webkit-scrollbar {
+  display: none;
+}
+
+.horizontal-scroll-gallery::-webkit-scrollbar-thumb {
+  background-color: #888;
+}
+
