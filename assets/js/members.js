@@ -2,7 +2,7 @@ jQuery(function($) {
 $(document).ready(function(){
 async function getData() {
     $('#bodyText').hide();
-    const url = 'https://emerson-fleming.github.io/Data/ttrd_data.json';
+    const url = 'https://thetatautech.github.io/Data/ttrd_data.json';
     const response = await fetch(url);
     const data = await response.json();
     const members = data.members;
