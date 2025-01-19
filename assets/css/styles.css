@@ -97,6 +97,8 @@ small {
   display: flex;
   overflow: hidden;
   white-space: nowrap;
+  align-items: center;
+  justify-content: center;
 }
 
 .horizontal-scroll-gallery .col {
