@@ -18,21 +18,21 @@
         "position": "",
         "eboard": "",
         "email": "kaitlynclevidence@gmail.com",
-        "resume": "./Resumes/Omega/kaitlyn_clevidence_resume.pdf",
-        "image": "./Images/Omega/kaitlyn_clevidence.jpeg",
+        "linkedin": "https://www.linkedin.com/in/kaitlyn-clevidence?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
         "credit": "",
-        "linkedin": "https://www.linkedin.com/in/kaitlyn-clevidence?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+        "resume": "https://thetatautech.github.io/Resumes/Omega/kaitlyn_clevidence_resume.pdf",
+        "image": "https://thetatautech.github.io/Images/Omega/kaitlyn_clevidence.jpeg"
       },
       {
         "name": "Tyler Dishman",
         "major": "Computer Science and Engineering",
-        "position": "Tech",
+        "position": "Technology",
         "eboard": "",
         "email": "tydishman@gmail.com",
-        "resume": "./Resumes/Omega/tyler_dishman_resume.pdf",
-        "image": "",
+        "linkedin": "https://www.linkedin.com/in/tyler-dishman-95778a2ab/",
         "credit": "",
-        "linkedin": "https://www.linkedin.com/in/tyler-dishman-95778a2ab/"
+        "resume": "https://thetatautech.github.io/Resumes/Omega/tyler_dishman_resume.pdf",
+        "image": "https://thetatautech.github.io/Images/Omega/tyler_dishman.jpeg"
       },
       {
         "name": "Mason Escobar",
@@ -40,10 +40,9 @@
         "position": "",
         "eboard": "",
         "email": "escobarmason@gmail.com",
-        "resume": "./Resumes/Omega/mason_escobar_resume.pdf",
-        "image": "",
+        "linkedin": "",
         "credit": "",
-        "linkedin": ""
+        "resume": "https://thetatautech.github.io/Resumes/Omega/mason_escobar_resume.pdf"
       },
       {
         "name": "Kaiden Farthing",
@@ -106,10 +105,8 @@
         "position": "",
         "eboard": "",
         "email": "Kaihart.sb@gmail.com",
-        "resume": "",
-        "image": "",
-        "credit": "",
-        "linkedin": ""
+        "linkedin": "",
+        "credit": ""
       },
       {
         "name": "Branden Hough",
@@ -117,10 +114,9 @@
         "position": "",
         "eboard": "",
         "email": "houghbranden1@gmail.com",
-        "resume": "./Resumes/Omega/branden_hough_resume.pdf",
-        "image": "",
+        "linkedin": "https://www.linkedin.com/in/branden-hough-7b7a17346?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bq6L6mvsoR%2BeaNfDJHNlymw%3D%3D",
         "credit": "",
-        "linkedin": "https://www.linkedin.com/in/branden-hough-7b7a17346?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bq6L6mvsoR%2BeaNfDJHNlymw%3D%3D"
+        "resume": "https://thetatautech.github.io/Resumes/Omega/branden_hough_resume.pdf"
       },
       {
         "name": "Gavin Jaeger",
@@ -183,10 +179,8 @@
         "position": "",
         "eboard": "",
         "email": "masonnejib@gmail.com",
-        "resume": "",
-        "image": "",
-        "credit": "",
-        "linkedin": ""
+        "linkedin": "",
+        "credit": ""
       },
       {
         "name": "Allison Ontell",
@@ -194,10 +188,9 @@
         "position": "Projects",
         "eboard": "",
         "email": "allison.ontell@gmail.com",
-        "resume": "./Resumes/Omega/allison_ontell_resume.pdf",
-        "image": "",
+        "linkedin": "www.linkedin.com/in/allison-ontell",
         "credit": "",
-        "linkedin": "www.linkedin.com/in/allison-ontell"
+        "resume": "https://thetatautech.github.io/Resumes/Omega/allison_ontell_resume.pdf"
       },
       {
         "name": "Aiden Smith",
@@ -216,10 +209,10 @@
         "position": "",
         "eboard": "",
         "email": "vassilynathanielt@unr.edu",
-        "resume": "./Resumes/Omega/vassily_tan_resume.pdf",
-        "image": "./Images/Omega/vassily_tan.jpeg",
+        "linkedin": "https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BPbetoLO1RBuoWPIvkpyKXA%3D%3D",
         "credit": "",
-        "linkedin": "https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BPbetoLO1RBuoWPIvkpyKXA%3D%3D"
+        "resume": "https://thetatautech.github.io/Resumes/Omega/vassily_tan_resume.pdf",
+        "image": "https://thetatautech.github.io/Images/Omega/vassily_tan.jpeg"
       },
       {
         "name": "Adella Todd",
@@ -259,7 +252,7 @@
       {
         "name": "Jaden Chang",
         "major": "Civil Engineering",
-        "position": "Brotherhood, Recruitment",
+        "position": "",
         "eboard": "",
         "email": "changjaden04@gmail.com",
         "resume": "",
@@ -273,10 +266,8 @@
         "position": "Fundraising",
         "eboard": "",
         "email": "alexdanamidis14@gmail.com",
-        "resume": "",
-        "image": "",
-        "credit": "",
-        "linkedin": ""
+        "linkedin": "",
+        "credit": ""
       },
       {
         "name": "Argelia Felix-Lopez",
@@ -292,7 +283,7 @@
       {
         "name": "Hailey-Rae Galan",
         "major": "Mechanical Engineering",
-        "position": "Community Service, Recruitment",
+        "position": "",
         "eboard": "",
         "email": "haileyrae19@gmail.com",
         "resume": "",
@@ -303,7 +294,7 @@
       {
         "name": "Andrew Hsu",
         "major": "Computer Science and Engineering",
-        "position": "Academics/TRF",
+        "position": "",
         "eboard": "",
         "email": "andrewhsu62@gmail.com",
         "resume": "",
@@ -314,7 +305,7 @@
       {
         "name": "Daniel Levi",
         "major": "Civil Engineering",
-        "position": "Historian",
+        "position": "",
         "eboard": "",
         "email": "danielaaronlevi@gmail.com",
         "resume": "",
@@ -325,7 +316,7 @@
       {
         "name": "Erica Nichols",
         "major": "Biomedical Engineering",
-        "position": "Merchandise & Marketing, Recruitment",
+        "position": "",
         "eboard": "",
         "email": "ericalnichols194@gmail.com",
         "resume": "",
@@ -347,7 +338,7 @@
       {
         "name": "Kieran Pedersen",
         "major": "Environmental Engineering",
-        "position": "Historian, Intramural",
+        "position": "",
         "eboard": "",
         "email": "kiegioped@gmail.com",
         "resume": "",
@@ -404,7 +395,7 @@
       {
         "name": "Brennan Kincannon",
         "major": "Mechanical Engineering",
-        "position": "Historian",
+        "position": "",
         "eboard": "",
         "email": "brennanlkincannon@gmail.com",
         "resume": "",
@@ -416,7 +407,7 @@
         "name": "Hannah Minucci",
         "major": "Biomedical Engineering",
         "position": "",
-        "eboard": "Marshal",
+        "eboard": "",
         "email": "Minuccihannah@gmail.com",
         "resume": "",
         "image": "",
@@ -438,7 +429,7 @@
         "name": "Ivan Strunk",
         "major": "Electrical Engineering",
         "position": "",
-        "eboard": "Treasurer",
+        "eboard": "",
         "email": "Istrunk@nevada.unr.edu",
         "resume": "",
         "image": "",
@@ -449,7 +440,7 @@
         "name": "Jasmine Valencia",
         "major": "Electrical Engineering",
         "position": "",
-        "eboard": "Scribe",
+        "eboard": "",
         "email": "jasmarievalencia@gmail.com",
         "resume": "",
         "image": "",
@@ -483,7 +474,7 @@
       {
         "name": "Ashley Byrne",
         "major": "Mechanical Engineering",
-        "position": "Risk",
+        "position": "",
         "eboard": "",
         "email": "ashleybyrne12765@gmail.com",
         "resume": "",
@@ -516,11 +507,11 @@
       {
         "name": "Bryan Escatel Jimenez",
         "major": "Electrical",
-        "position": "",
+        "position": "Professional Development",
         "eboard": "",
         "email": "Bryan.escatel9@gmail.com",
-        "resume": "./Resumes/Phi/bryan_escatel jimenez_resume.pdf",
-        "image": "./Images/Phi/bryan_escatel jimenez.jpeg",
+        "resume": "https://thetatautech.github.io/Resumes/bryan_resume.pdf",
+        "image": "https://thetatautech.github.io/Images/bryan_escatel_jimenez.jpeg",
         "credit": "PC: Alicia Chiang",
         "linkedin": "https://www.linkedin.com/in/bryan-escatel/"
       },
@@ -560,13 +551,13 @@
       {
         "name": "Aleena Kureekattil",
         "major": "Biomedical Engineering",
-        "position": "",
-        "eboard": "Regent",
+        "position": "Academics, Academics, Rush (Previous) ",
+        "eboard": "Regent ",
         "email": "aleenakureekattil@gmail.com",
-        "resume": "./Resumes/Phi/aleena_kureekattil_resume.pdf",
-        "image": "./Images/Phi/aleena_kureekattil.jpeg",
+        "linkedin": "https://www.linkedin.com/in/aleena-kure?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
         "credit": "Photo credit by Alicia Chiang",
-        "linkedin": "https://www.linkedin.com/in/aleena-kure?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+        "resume": "https://thetatautech.github.io/Resumes/Phi/aleena_kureekattil_resume.pdf",
+        "image": "https://thetatautech.github.io/Images/Phi/aleena_kureekattil.jpeg"
       },
       {
         "name": "Sean Morton",
@@ -586,14 +577,14 @@
         "eboard": "",
         "email": "jmnavrr@gmail.com",
         "resume": "",
-        "image": "./Images/Phi/jana_navarro.jpeg",
+        "image": "https://thetatautech.github.io/Images/jana_navarro.jpeg",
         "credit": "PC: Alicia Chiang",
         "linkedin": ""
       },
       {
         "name": "Cade Schiller",
         "major": "Mechanical",
-        "position": "",
+        "position": "Community Service",
         "eboard": "",
         "email": "cschiller@nevada.unr.edu",
         "resume": "",
@@ -615,11 +606,11 @@
       {
         "name": "Valerie Valdivia",
         "major": "Environmental Science",
-        "position": "",
+        "position": "Fundraising",
         "eboard": "",
         "email": "valerie.valdivia@outlook.com",
         "resume": "",
-        "image": "./Images/Phi/valerie_valdivia.jpeg",
+        "image": "https://thetatautech.github.io/Images/valerie_valdivia.jpeg",
         "credit": "PC: Alicia Chiang",
         "linkedin": ""
       },
@@ -643,7 +634,7 @@
         "eboard": "",
         "email": "iabraham@nevada.unr.edu",
         "resume": "",
-        "image": "./Images/Upsilon/isabella_abraham.jpeg",
+        "image": "https://thetatautech.github.io/Images/isabella_abraham.jpeg",
         "credit": "PC: Alicia Chiang",
         "linkedin": ""
       },
@@ -687,7 +678,7 @@
         "eboard": "",
         "email": "braydenf@nevada.unr.edu",
         "resume": "",
-        "image": "./Images/Upsilon/brayden_fontanilla.jpeg",
+        "image": "https://thetatautech.github.io/Images/brayden_fontanilla.jpeg",
         "credit": "PC: Alicia Chiang",
         "linkedin": ""
       },
@@ -716,11 +707,11 @@
       {
         "name": "Joshua Herup",
         "major": "Computer Science",
-        "position": "",
+        "position": "Technology",
         "eboard": "",
         "email": "joshua@herup.com",
         "resume": "",
-        "image": "./Images/Upsilon/joshua_herup.jpeg",
+        "image": "https://thetatautech.github.io/Images/josh_herup.jpeg",
         "credit": "PC: Alicia Chiang",
         "linkedin": "https://www.linkedin.com/in/jherup"
       },
@@ -742,7 +733,7 @@
         "eboard": "",
         "email": "kylalowery@nevada.unr.edu",
         "resume": "",
-        "image": "./Images/Upsilon/kyla_lowery.jpeg",
+        "image": "https://thetatautech.github.io/Images/kyla_lowery.jpeg",
         "credit": "PC: Alicia Chiang",
         "linkedin": ""
       },
@@ -753,18 +744,18 @@
         "eboard": "",
         "email": "spetree@nevada.unr.edu",
         "resume": "",
-        "image": "./Images/Upsilon/shane_petree.jpeg",
+        "image": "https://thetatautech.github.io/Images/shane_petree.jpeg",
         "credit": "PC: Alicia Chiang",
         "linkedin": "https://www.linkedin.com/in/shane-petree-4b8822232"
       },
       {
         "name": "Alyse Schultz",
         "major": "Civil",
-        "position": "",
+        "position": "Historian",
         "eboard": "",
         "email": "alyseschultz@nevada.unr.edu",
         "resume": "",
-        "image": "./Images/Upsilon/alyse_schultz.jpeg",
+        "image": "https://thetatautech.github.io/Images/alyse_schultz.jpeg",
         "credit": "PC: Alicia Chiang",
         "linkedin": ""
       },
@@ -793,11 +784,11 @@
       {
         "name": "Tayshawn Williams",
         "major": "Electrical",
-        "position": "",
+        "position": "Projects",
         "eboard": "",
         "email": "tayshawn@nevada.unr.edu",
         "resume": "",
-        "image": "./Images/Upsilon/tayshawn_williams.jpeg",
+        "image": "https://thetatautech.github.io/Images/tayshawn_williams.jpeg",
         "credit": "PC: Alicia Chiang",
         "linkedin": ""
       }
@@ -821,18 +812,18 @@
         "eboard": "",
         "email": "Fchau@nevada.unr.edu",
         "resume": "",
-        "image": "./Images/Tau/fiorina_chau.jpeg",
+        "image": "https://thetatautech.github.io/Images/fiorina_chau.jpeg",
         "credit": "",
         "linkedin": ""
       },
       {
         "name": "Alicia Chiang",
         "major": "Computer Science",
-        "position": "",
+        "position": "Historian",
         "eboard": "",
         "email": "aliciachiang@nevada.unr.edu",
         "resume": "",
-        "image": "./Images/Tau/alicia_chiang.jpeg",
+        "image": "https://thetatautech.github.io/Images/alicia_chiang.jpeg",
         "credit": "PC: Alicia Chiang",
         "linkedin": ""
       },
@@ -898,7 +889,7 @@
         "eboard": "",
         "email": "amberleeketten@nevada.unr.edu",
         "resume": "",
-        "image": "./Images/Tau/amberlee_ketten.jpeg",
+        "image": "https://thetatautech.github.io/Images/amberlee_ketten.jpeg",
         "credit": "PC: Alicia Chiang",
         "linkedin": ""
       },
@@ -909,25 +900,25 @@
         "eboard": "",
         "email": "amandaknowles@nevada.unr.edu",
         "resume": "",
-        "image": "./Images/Tau/amanda_knowles.jpeg",
+        "image": "https://thetatautech.github.io/Images/amanda_knowles.jpeg",
         "credit": "PC: Alicia Chiang",
         "linkedin": "https://www.linkedin.com/in/amanda-knowles-390846222/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
       },
       {
         "name": "Grant Korte",
         "major": "Biomedical",
-        "position": "",
-        "eboard": "",
+        "position": "Recruitment",
+        "eboard": "PNM Instructor",
         "email": "grantkorte@nevada.unr.edu",
         "resume": "",
-        "image": "./Images/Tau/grant_korte.jpeg",
+        "image": "https://thetatautech.github.io/Images/grant_korte.jpeg",
         "credit": "PC: Alicia Chiang",
         "linkedin": ""
       },
       {
         "name": "Zeyad Lateef",
         "major": "Electrical",
-        "position": "",
+        "position": "Recruitment",
         "eboard": "",
         "email": "grantkorte@nevada.unr.edu",
         "resume": "",
@@ -952,8 +943,8 @@
         "position": "",
         "eboard": "",
         "email": "ajmathew117@gmail.com",
-        "resume": "./Resumes/Tau/ajith_mathew_resume.pdf",
-        "image": "./Images/Tau/ajith_mathew.jpeg",
+        "resume": "https://thetatautech.github.io/Resumes/aj_resume.pdf",
+        "image": "https://thetatautech.github.io/Images/ajith_mathew.jpeg",
         "credit": "PC: Alicia Chiang",
         "linkedin": "https://www.linkedin.com/in/ajith-mathew-969449222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
       },
@@ -964,7 +955,7 @@
         "eboard": "",
         "email": "timothyngo@nevada.unr.edu",
         "resume": "",
-        "image": "./Images/Tau/timothy_ngo.jpeg",
+        "image": "https://thetatautech.github.io/Images/timothy_ngo.jpeg",
         "credit": "",
         "linkedin": ""
       },
@@ -975,7 +966,7 @@
         "eboard": "",
         "email": "tnoda@nevada.unr.edu",
         "resume": "",
-        "image": "./Images/Tau/tiffany_noda.jpeg",
+        "image": "https://thetatautech.github.io/Images/tiffany_noda.jpeg",
         "credit": "",
         "linkedin": ""
       },
@@ -994,7 +985,7 @@
         "name": "Alyssa Reichert",
         "major": "Civil Engineering",
         "position": "",
-        "eboard": "Corresponding Secretary",
+        "eboard": "",
         "email": "breichert123@gmail.com",
         "resume": "",
         "image": "",
@@ -1008,7 +999,7 @@
         "eboard": "",
         "email": "drinne@nevada.unr.edu",
         "resume": "",
-        "image": "./Images/Tau/dani_rinne.jpeg",
+        "image": "https://thetatautech.github.io/Images/dani_rinne.jpeg",
         "credit": "PC: Alicia Chiang",
         "linkedin": ""
       },
@@ -1037,7 +1028,7 @@
       {
         "name": "Kaden Syme",
         "major": "Mechanical Engineering",
-        "position": "Guardian",
+        "position": "",
         "eboard": "",
         "email": "Kadensyme@gmail.com",
         "resume": "",
@@ -1054,18 +1045,18 @@
         "eboard": "",
         "email": "icosta@nevada.unr.edu",
         "resume": "",
-        "image": "./Images/Sigma/isabella_costa.jpeg",
+        "image": "https://thetatautech.github.io/Images/isabella_costa.jpeg",
         "credit": "PC: Alicia Chiang",
         "linkedin": ""
       },
       {
         "name": "Brian Hill",
         "major": "Electrical",
-        "position": "",
+        "position": "Recruitment",
         "eboard": "",
         "email": "Learnerhill@gmail.com",
         "resume": "",
-        "image": "./Images/Sigma/brian_hill.jpeg",
+        "image": "https://thetatautech.github.io/Images/brian_hill.jpeg",
         "credit": "",
         "linkedin": "https://www.linkedin.com/in/brian-hill-02bb40209"
       },
@@ -1073,7 +1064,7 @@
         "name": "Patricia Paylor",
         "major": "Biomedical Engineering",
         "position": "",
-        "eboard": "Potential Member Instructor",
+        "eboard": "",
         "email": "trispaylor@gmail.com",
         "resume": "",
         "image": "",
@@ -1109,7 +1100,7 @@
         "eboard": "",
         "email": "Kyratalu6@gmail.com",
         "resume": "",
-        "image": "./Images/Sigma/kyra_talusik.jpeg",
+        "image": "https://thetatautech.github.io/Images/kyra_talusik.jpeg",
         "credit": "",
         "linkedin": "https://www.linkedin.com/in/kyratalusik/"
       }
@@ -1134,7 +1125,7 @@
         "position": "",
         "eboard": "",
         "email": "Chantelle.Marie.cab@gmail.com",
-        "resume": "./Resumes/Pi/chantelle_cabanilla_resume.pdf",
+        "resume": "https://thetatautech.github.io/Resumes/chantelle_resume.pdf",
         "image": "",
         "credit": "",
         "linkedin": "https://www.linkedin.com/in/chantelle-cabanilla-574a94245/"
@@ -1146,7 +1137,7 @@
         "eboard": "",
         "email": "Ahechavarria@nevada.unr.edu",
         "resume": "",
-        "image": "./Images/Pi/aiden_hechavarria.jpeg",
+        "image": "https://thetatautech.github.io/Images/aiden_hechavarria.jpeg",
         "credit": "PC: Alicia Chiang",
         "linkedin": ""
       },
