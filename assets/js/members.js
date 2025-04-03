@@ -108,6 +108,22 @@ async function getData() {
         clonedClass.show();
     }
     const clonedEboardArray = [];
+
+    const eboardOrder = [
+        "Regent", "Vice Regent", "Treasurer", "Corresponding Secretary", "Scribe", "Marshal", "Potential Member Instructor"
+    ];
+    eboardArray.sort((a, b) => {
+        let indexA = eboardOrder.indexOf(a.eboard);
+        let indexB = eboardOrder.indexOf(b.eboard);
+    
+        // If a position isn't found, push it to the end
+        if (indexA === -1) indexA = eboardOrder.length;
+        if (indexB === -1) indexB = eboardOrder.length;
+    
+        return indexA - indexB;
+    });
+
+
     for (let k = 0; k < eboardArray.length; k++){
         const clonedEboard = sampleEboard.clone();
         clonedEboard.css("opacity", "1");
@@ -172,6 +188,25 @@ async function getData() {
     eboardContainer.append(clonedEboardArray);
     eboardContainer.show();
     const clonedChairArray = [];
+
+    const chairOrder = [
+        "Academics/TRF", "Brotherhood", "Community Service", "Fundraising", "Historian", "Intramural", "Merchandise & Marketing", "Professional Development", "Projects", "Recruitement", "Risk", "Tech", "Guardian"
+    ];
+
+    chairArray.sort((a, b) => {
+        let firstPositionA = a.position.split(",")[0].trim();
+        let firstPositionB = b.position.split(",")[0].trim();
+    
+        let indexA = chairOrder.indexOf(firstPositionA);
+        let indexB = chairOrder.indexOf(firstPositionB);
+    
+        // If a position isn't found, push it to the end
+        if (indexA === -1) indexA = chairOrder.length;
+        if (indexB === -1) indexB = chairOrder.length;
+    
+        return indexA - indexB;
+    });
+
     for (let k = 0; k < chairArray.length; k++){
         const clonedChair = sampleChair.clone();
         clonedChair.css("opacity", "1");
