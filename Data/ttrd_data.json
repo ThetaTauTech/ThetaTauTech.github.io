@@ -1,7 +1,7 @@
 {
   "members": {
     "Gamma Beta": [
-          {
+      {
         "name": "Aidan Madonna",
         "major": "Computer Science and Engineering",
         "position": "Tech",
@@ -11,8 +11,8 @@
         "image": "",
         "credit": "",
         "linkedin": "https://www.linkedin.com/in/aidan-madonna/"
-      },
-    ]
+      }
+    ],
     "Omega": [
       {
         "name": "Adelaide Choi",
