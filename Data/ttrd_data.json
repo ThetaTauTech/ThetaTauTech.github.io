@@ -2,6 +2,17 @@
   "members": {
     "Omega": [
       {
+        "name": "Aidan Madonna",
+        "major": "Computer Science and Engineering",
+        "position": "Tech",
+        "eboard": "Corresponding Secretary",
+        "email": "aidanmadonna@gmail.com",
+        "resume": "",
+        "image": "",
+        "credit": "",
+        "linkedin": ""
+      },
+      {
         "name": "Adelaide Choi",
         "major": "Mechanical Engineering",
         "position": "",
@@ -26,7 +37,7 @@
       {
         "name": "Tyler Dishman",
         "major": "Computer Science and Engineering",
-        "position": "Tech",
+        "position": "",
         "eboard": "",
         "email": "tydishman@gmail.com",
         "resume": "./Resumes/Omega/tyler_dishman_resume.pdf",
