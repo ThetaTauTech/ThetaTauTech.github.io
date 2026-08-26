@@ -11,7 +11,18 @@
         "image": "",
         "credit": "",
         "linkedin": ""
-      }
+      },
+      {
+        "name": "",
+        "major": "",
+        "position": "",
+        "eboard": "",
+        "email": "",
+        "resume": "",
+        "image": "",
+        "credit": "",
+        "linkedin": ""
+      },
     ],
     "Gamma Beta": [
       {
@@ -28,17 +39,6 @@
     ],
     "Omega": [
       {
-        "name": "Adelaide Choi",
-        "major": "Mechanical Engineering",
-        "position": "",
-        "eboard": "",
-        "email": "agchoi2006@gmail.com",
-        "resume": "",
-        "image": "",
-        "credit": "",
-        "linkedin": ""
-      },
-      {
         "name": "Kaitlyn Clevidence",
         "major": "Computer Science and Engineering",
         "position": "",
@@ -48,17 +48,6 @@
         "image": "./Images/Omega/kaitlyn_clevidence.jpeg",
         "credit": "",
         "linkedin": "https://www.linkedin.com/in/kaitlyn-clevidence?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
-      },
-      {
-        "name": "Tyler Dishman",
-        "major": "Computer Science and Engineering",
-        "position": "",
-        "eboard": "",
-        "email": "tydishman@gmail.com",
-        "resume": "./Resumes/Omega/tyler_dishman_resume.pdf",
-        "image": "",
-        "credit": "",
-        "linkedin": "https://www.linkedin.com/in/tyler-dishman-95778a2ab/"
       },
       {
         "name": "Mason Escobar",
@@ -77,17 +66,6 @@
         "position": "",
         "eboard": "",
         "email": "farthing.kaiden@gmail.com",
-        "resume": "",
-        "image": "",
-        "credit": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Alex Fiore",
-        "major": "Electrical Engineering",
-        "position": "",
-        "eboard": "",
-        "email": "alexfiore702@gmail.com",
         "resume": "",
         "image": "",
         "credit": "",
@@ -116,44 +94,11 @@
         "linkedin": ""
       },
       {
-        "name": "Justin Harris",
-        "major": "Mechanical Engineering",
-        "position": "",
-        "eboard": "",
-        "email": "justinrharris10@gmail.com",
-        "resume": "",
-        "image": "",
-        "credit": "",
-        "linkedin": ""
-      },
-      {
         "name": "Kai Hart",
         "major": "Mechanical Engineering",
         "position": "",
         "eboard": "",
         "email": "Kaihart.sb@gmail.com",
-        "resume": "",
-        "image": "",
-        "credit": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Branden Hough",
-        "major": "Computer Science and Engineering",
-        "position": "",
-        "eboard": "",
-        "email": "houghbranden1@gmail.com",
-        "resume": "./Resumes/Omega/branden_hough_resume.pdf",
-        "image": "",
-        "credit": "",
-        "linkedin": "https://www.linkedin.com/in/branden-hough-7b7a17346?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bq6L6mvsoR%2BeaNfDJHNlymw%3D%3D"
-      },
-      {
-        "name": "Gavin Jaeger",
-        "major": "Environmental Engineering",
-        "position": "",
-        "eboard": "",
-        "email": "gavinjlv05@gmail.com",
         "resume": "",
         "image": "",
         "credit": "",
@@ -169,18 +114,7 @@
         "image": "",
         "credit": "",
         "linkedin": ""
-      },
-      {
-        "name": "Jacob Lewis",
-        "major": "Other",
-        "position": "",
-        "eboard": "",
-        "email": "Jacobmichaellewis2@gmail.com",
-        "resume": "",
-        "image": "",
-        "credit": "",
-        "linkedin": ""
-      },
+      }
       {
         "name": "Aiden Libanag",
         "major": "Computer Science and Engineering",
@@ -202,28 +136,6 @@
         "image": "",
         "credit": "",
         "linkedin": ""
-      },
-      {
-        "name": "Mason Nejib",
-        "major": "Mechanical Engineering",
-        "position": "",
-        "eboard": "",
-        "email": "masonnejib@gmail.com",
-        "resume": "",
-        "image": "",
-        "credit": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Allison Ontell",
-        "major": "Civil Engineering",
-        "position": "Projects",
-        "eboard": "",
-        "email": "allison.ontell@gmail.com",
-        "resume": "./Resumes/Omega/allison_ontell_resume.pdf",
-        "image": "",
-        "credit": "",
-        "linkedin": "www.linkedin.com/in/allison-ontell"
       },
       {
         "name": "Aiden Smith",
@@ -248,17 +160,6 @@
         "linkedin": "https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BPbetoLO1RBuoWPIvkpyKXA%3D%3D"
       },
       {
-        "name": "Adella Todd",
-        "major": "Computer Science and Engineering",
-        "position": "",
-        "eboard": "",
-        "email": "adella.todd22@gmail.com",
-        "resume": "",
-        "image": "",
-        "credit": "",
-        "linkedin": ""
-      },
-      {
         "name": "Jesse Vosberg",
         "major": "Mechanical Engineering",
         "position": "",
@@ -268,70 +169,15 @@
         "image": "",
         "credit": "",
         "linkedin": ""
-      },
-      {
-        "name": "Deion Walker",
-        "major": "Mechanical Engineering",
-        "position": "",
-        "eboard": "",
-        "email": "deionwalker748@gmail.com",
-        "resume": "",
-        "image": "",
-        "credit": "",
-        "linkedin": ""
       }
     ],
     "Psi": [
-      {
-        "name": "Jaden Chang",
-        "major": "Civil Engineering",
-        "position": "Brotherhood, Recruitment",
-        "eboard": "",
-        "email": "changjaden04@gmail.com",
-        "resume": "",
-        "image": "",
-        "credit": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Alex Danamidis",
-        "major": "CSE/Applied Mathmatics",
-        "position": "Fundraising",
-        "eboard": "",
-        "email": "alexdanamidis14@gmail.com",
-        "resume": "",
-        "image": "",
-        "credit": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Argelia Felix-Lopez",
-        "major": "Mechanical Engineering",
-        "position": "",
-        "eboard": "",
-        "email": "argeliafl01@gmail.com",
-        "resume": "",
-        "image": "",
-        "credit": "",
-        "linkedin": ""
-      },
       {
         "name": "Hailey-Rae Galan",
         "major": "Mechanical Engineering",
         "position": "Community Service, Recruitment",
         "eboard": "",
         "email": "haileyrae19@gmail.com",
-        "resume": "",
-        "image": "",
-        "credit": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Andrew Hsu",
-        "major": "Computer Science and Engineering",
-        "position": "Academics/TRF",
-        "eboard": "",
-        "email": "andrewhsu62@gmail.com",
         "resume": "",
         "image": "",
         "credit": "",
@@ -349,39 +195,6 @@
         "linkedin": ""
       },
       {
-        "name": "Erica Nichols",
-        "major": "Biomedical Engineering",
-        "position": "Merchandise & Marketing, Recruitment",
-        "eboard": "",
-        "email": "ericalnichols194@gmail.com",
-        "resume": "",
-        "image": "",
-        "credit": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Peyton Otey",
-        "major": "Computer Science and Engineering",
-        "position": "",
-        "eboard": "",
-        "email": "peytonotey01@gmail.com",
-        "resume": "",
-        "image": "",
-        "credit": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Kieran Pedersen",
-        "major": "Environmental Engineering",
-        "position": "Historian, Intramural",
-        "eboard": "",
-        "email": "kiegioped@gmail.com",
-        "resume": "",
-        "image": "",
-        "credit": "",
-        "linkedin": ""
-      },
-      {
         "name": "Jarenz Romero",
         "major": "Electrical Engineering",
         "position": "",
@@ -391,70 +204,15 @@
         "image": "",
         "credit": "",
         "linkedin": ""
-      },
-      {
-        "name": "Kirstin Springer",
-        "major": "Chemical Engineering",
-        "position": "",
-        "eboard": "",
-        "email": "kirstinspring234@gmail.com",
-        "resume": "",
-        "image": "",
-        "credit": "",
-        "linkedin": ""
       }
     ],
     "Chi": [
-      {
-        "name": "Alex Humphrey",
-        "major": "Electrical Engineering",
-        "position": "",
-        "eboard": "",
-        "email": "Lvalexjames@gmail.com",
-        "resume": "",
-        "image": "",
-        "credit": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Sabrina Jauregui",
-        "major": "Computer Science and Engineering",
-        "position": "",
-        "eboard": "",
-        "email": "lizabeth.sj02@gmail.com",
-        "resume": "",
-        "image": "",
-        "credit": "",
-        "linkedin": ""
-      },
       {
         "name": "Brennan Kincannon",
         "major": "Mechanical Engineering",
         "position": "Historian",
         "eboard": "",
         "email": "brennanlkincannon@gmail.com",
-        "resume": "",
-        "image": "",
-        "credit": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Hannah Minucci",
-        "major": "Biomedical Engineering",
-        "position": "",
-        "eboard": "Marshal",
-        "email": "Minuccihannah@gmail.com",
-        "resume": "",
-        "image": "",
-        "credit": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Selena Nichols",
-        "major": "Computer Science and Engineering",
-        "position": "",
-        "eboard": "",
-        "email": "sailorstraversal@gmail.com",
         "resume": "",
         "image": "",
         "credit": "",
@@ -477,17 +235,6 @@
         "position": "",
         "eboard": "Scribe",
         "email": "jasmarievalencia@gmail.com",
-        "resume": "",
-        "image": "",
-        "credit": "",
-        "linkedin": ""
-      },
-      {
-        "name": "Tejash Vangala",
-        "major": "Mechanical Engineering",
-        "position": "",
-        "eboard": "Vice Regent",
-        "email": "tejash.vangala@gmail.com",
         "resume": "",
         "image": "",
         "credit": "",
