@@ -27,8 +27,8 @@
     "Gamma Beta": [
       {
         "name": "Chris Aboujaoude",
-        "major": "",
-        "position": "",
+        "major": "Electrical Engineering",
+        "position": "Professional Development",
         "eboard": "",
         "email": "",
         "resume": "",
@@ -49,7 +49,7 @@
       },
       {
         "name": "Malayla Harding",
-        "major": "",
+        "major": "Civil Engineering",
         "position": "",
         "eboard": "Marshal",
         "email": "",
@@ -72,7 +72,7 @@
       {
         "name": "Aidan Madonna",
         "major": "Computer Science and Engineering",
-        "position": "Tech",
+        "position": "",
         "eboard": "Corresponding Secretary",
         "email": "aidanmadonna@gmail.com",
         "resume": "./Resumes/Gamma Beta/aidan_madonna_resume.pdf",
@@ -94,7 +94,7 @@
       {
         "name": "Chris Soos",
         "major": "",
-        "position": "",
+        "position": "Academics",
         "eboard": "",
         "email": "",
         "resume": "",
@@ -195,7 +195,7 @@
       {
         "name": "Aiden Libanag",
         "major": "Computer Science and Engineering",
-        "position": "",
+        "position": "Tech",
         "eboard": "",
         "email": "aidenlibanag@gmail.com",
         "resume": "",
