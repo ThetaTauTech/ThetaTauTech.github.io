@@ -2,22 +2,199 @@
   "members": {
     "Delta Beta": [
       {
-        "name": "",
-        "major": "",
+        "name": "Kennedi Brown",
+        "major": "Material Science Engineering",
         "position": "",
         "eboard": "",
-        "email": "",
+        "email": "kennedib@unr.edu",
         "resume": "",
         "image": "",
         "credit": "",
         "linkedin": ""
       },
       {
-        "name": "",
-        "major": "",
+        "name": "Marc Chae",
+        "major": "Civil Engineering",
         "position": "",
         "eboard": "",
-        "email": "",
+        "email": "marcandthebirds@gmail.com",
+        "resume": "",
+        "image": "",
+        "credit": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Andres Cuevas",
+        "major": "Biomedical Engineering",
+        "position": "",
+        "eboard": "",
+        "email": "Andre.cueva.15@gmail.com",
+        "resume": "",
+        "image": "",
+        "credit": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Jeff Freal",
+        "major": "Computer Science and Engineering",
+        "position": "",
+        "eboard": "",
+        "email": "mmnnmmmnnm000@gmail.com",
+        "resume": "",
+        "image": "",
+        "credit": "",
+        "linkedin": ""
+      },
+      {
+        "name": "Brooke Garcia",
+        "major": "Biomedical Engineering",
+        "position": "",
+        "eboard": "",
+        "email": "brookelynnegarcia25@gmail.com",
+        "resume": "",
+        "image": "",
+        "credit": "",
+        "linkedin": ""
+      }
+      ,
+      {
+        "name": "Maggie Grimes",
+        "major": "Mechanical Engineering",
+        "position": "",
+        "eboard": "",
+        "email": "maggieagrimes@gmail.com",
+        "resume": "",
+        "image": "",
+        "credit": "",
+        "linkedin": ""
+      }
+      ,
+      {
+        "name": "Brooklyn Higgins-Beck",
+        "major": "Mechanical Engineering",
+        "position": "",
+        "eboard": "",
+        "email": "brooklynhigginsbeck@gmail.com",
+        "resume": "",
+        "image": "",
+        "credit": "",
+        "linkedin": ""
+      }
+      ,
+      {
+        "name": "Tyler Kendrick",
+        "major": "Mechanical Engineering",
+        "position": "",
+        "eboard": "",
+        "email": "tyler.kend0@gmail.com",
+        "resume": "",
+        "image": "",
+        "credit": "",
+        "linkedin": ""
+      }
+      ,
+      {
+        "name": "Kyle Lowpensky",
+        "major": "Mechanical Engineering",
+        "position": "",
+        "eboard": "",
+        "email": "lowpenskykyle@gmail.com",
+        "resume": "",
+        "image": "",
+        "credit": "",
+        "linkedin": ""
+      }
+      ,
+      {
+        "name": "Prisha Malhotra",
+        "major": "Electrical Engineering",
+        "position": "",
+        "eboard": "",
+        "email": "prisha0922@gmail.con",
+        "resume": "",
+        "image": "",
+        "credit": "",
+        "linkedin": ""
+      }
+      ,
+      {
+        "name": "Jeneray Navarrete-Pak",
+        "major": "Mechanical Engineering",
+        "position": "",
+        "eboard": "",
+        "email": "jeneray.navarretepak@gmail.com",
+        "resume": "",
+        "image": "",
+        "credit": "",
+        "linkedin": ""
+      }
+      ,
+      {
+        "name": "Kayla Pingel",
+        "major": "Mechanical Engineering",
+        "position": "",
+        "eboard": "",
+        "email": "kaylapingel6@gmail.com",
+        "resume": "",
+        "image": "",
+        "credit": "",
+        "linkedin": ""
+      }
+      ,
+      {
+        "name": "Diana Pinto",
+        "major": "Mechanical Engineering",
+        "position": "",
+        "eboard": "",
+        "email": "dianapintoc06@gmail.com",
+        "resume": "",
+        "image": "",
+        "credit": "",
+        "linkedin": ""
+      }
+      ,
+      {
+        "name": "Anmol Sandhu",
+        "major": "Electrical Engineering",
+        "position": "",
+        "eboard": "",
+        "email": "asandhu1697@gmail.com",
+        "resume": "",
+        "image": "",
+        "credit": "",
+        "linkedin": ""
+      }
+      ,
+      {
+        "name": "Ben Sandusky",
+        "major": "Computer Science and Engineering",
+        "position": "",
+        "eboard": "",
+        "email": "sillyskout@gmail.com",
+        "resume": "",
+        "image": "",
+        "credit": "",
+        "linkedin": ""
+      }
+      ,
+      {
+        "name": "Isabelle Shaw",
+        "major": "Mechanical Engineering",
+        "position": "",
+        "eboard": "",
+        "email": "ishaw@unr.edu",
+        "resume": "",
+        "image": "",
+        "credit": "",
+        "linkedin": ""
+      }
+      ,
+      {
+        "name": "Eyobel Tecle",
+        "major": "Mechanical Engineering",
+        "position": "",
+        "eboard": "",
+        "email": "eyobeltecle702@gmail.com",
         "resume": "",
         "image": "",
         "credit": "",
@@ -213,6 +390,17 @@
         "image": "",
         "credit": "",
         "linkedin": ""
+      },
+      {
+        "name": "Allison Ontell",
+        "major": "Civil Engineering",
+        "position": "",
+        "eboard": "",
+        "email": "allison.ontell@gmail.com",
+        "resume": "./Resumes/Omega/allison_ontell_resume.pdf",
+        "image": "",
+        "credit": "",
+        "linkedin": "www.linkedin.com/in/allison-ontell"
       },
       {
         "name": "Aiden Smith",

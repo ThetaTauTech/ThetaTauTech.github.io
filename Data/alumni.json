@@ -90,6 +90,17 @@
                 "linkedin": ""
             },
             {
+                "name": "Deion Walker",
+                "major": "Mechanical Engineering",
+                "position": "",
+                "eboard": "",
+                "email": "deionwalker748@gmail.com",
+                "resume": "",
+                "image": "",
+                "credit": "",
+                "linkedin": ""
+            },
+            {
                 "name": "Adella Todd",
                 "major": "Computer Science and Engineering",
                 "position": "",
@@ -100,17 +111,8 @@
                 "credit": "",
                 "linkedin": ""
             },
+            
             {
-                "name": "Deion Walker",
-                "major": "Mechanical Engineering",
-                "position": "",
-                "eboard": "",
-                "email": "deionwalker748@gmail.com",
-                "resume": "",
-                "image": "",
-                "credit": "",
-                "linkedin": ""
-            } {
                 "name": "Jaden Chang",
                 "major": "Civil Engineering",
                 "position": "Brotherhood, Recruitment",
@@ -197,7 +199,7 @@
                 "image": "",
                 "credit": "",
                 "linkedin": ""
-            }
+            },
             {
                 "name": "Tejash Vangala",
                 "major": "Mechanical Engineering",
