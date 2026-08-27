@@ -1,4 +1,16 @@
 jQuery(function($) {
+function copyEmail(emailText, emailButton) {
+    navigator.clipboard.writeText(emailText).then(function() {
+        const originalText = emailButton.text();
+        emailButton.text("Copied!");
+        setTimeout(function() {
+            emailButton.text(originalText);
+        }, 1500);
+    }).catch(function() {
+        emailButton.text("Copy failed");
+    });
+}
+
 $(document).ready(function(){
 async function getData() {
     $('#bodyText').hide();
@@ -70,7 +82,7 @@ async function getData() {
             }
             if(emailText){
                 email.click(function() {
-                    window.location.href = "mailto:" + emailText;
+                    copyEmail(emailText, email);
                 });
             }
             if(!emailText){
@@ -158,7 +170,7 @@ async function getData() {
         }
         if(emailText){
             email.click(function() {
-                window.location.href = "mailto:" + emailText;
+                copyEmail(emailText, email);
             });
         }
         if(!emailText){
@@ -241,7 +253,7 @@ async function getData() {
         }
         if(emailText){
             email.click(function() {
-                window.location.href = "mailto:" + emailText;
+                copyEmail(emailText, email);
             });
         }
         if(!emailText){
