@@ -222,7 +222,7 @@
         "resume": "",
         "image": "",
         "credit": "",
-        "linkedin": ""
+        "linkedin": "https://www.linkedin.com/in/eric-costa-b1062335a/"
       },
       {
         "name": "Malayla Harding",
@@ -233,7 +233,7 @@
         "resume": "",
         "image": "",
         "credit": "",
-        "linkedin": ""
+        "linkedin": "https://www.linkedin.com/in/malayla-harding-88a4a2286/"
       },
       {
         "name": "Andrew Levin",
@@ -310,9 +310,9 @@
         "eboard": "",
         "email": "escobarmason@gmail.com",
         "resume": "./Resumes/Omega/mason_escobar_resume.pdf",
-        "image": "",
-        "credit": "",
-        "linkedin": ""
+        "image": "./Images/Omega/mason_escobar.jpeg",
+        "credit": "Photo Credit: Alex Danamidis",
+        "linkedin": "https://www.linkedin.com/in/masonescobar/"
       },
       {
         "name": "Kaiden Farthing",
@@ -489,8 +489,8 @@
         "position": "",
         "eboard": "Regent",
         "email": "jasmarievalencia@gmail.com",
-        "resume": "",
-        "image": "",
+        "resume": "./Resumes/Chi/jasmine_valencia_resume.pdf",
+        "image": "./Images/Chi/jasmine_valencia.jpeg",
         "credit": "",
         "linkedin": ""
       },
